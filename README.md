@@ -17,9 +17,9 @@ A lightweight, standalone desktop GUI application for viewing, panning, zooming,
 Download the latest `HUFI-Viewer.exe` release from the Releases page or directly from the official website. Double-click `HUFI-Viewer.exe` to run—no installation required.
 Double-click `HUFI-Viewer.exe` to run—no installation required.
 #### Associating `.hufi` Files in Windows:
-Right-click any `.hufi` file $\rightarrow$ Open with $\rightarrow$ Choose another app.
-Browse and select `HUFI-Viewer.exe`.
-Check "Always use this app to open .hufi files".
+- Right-click any `.hufi` file $\rightarrow$ Open with $\rightarrow$ Choose another app.
+- Browse and select `HUFI-Viewer.exe`.
+- Check "Always use this app to open .hufi files".
 ---
 ### Running from Source
 #### Prerequisites
