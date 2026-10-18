@@ -53,12 +53,12 @@ Compile the binary:
 The compiled standalone application will be generated inside the `dist/` folder as `main.exe` (or `HUFI_Viewer.exe`).
 
 ### Keyboard Shortcuts & Controls
-- ** Action	Shortcut / Control
-- ** Open File	`Ctrl + O`
-- ** Zoom In	`Ctrl + +` or `Ctrl + Mouse Wheel Up`
-- ** Zoom Out	`Ctrl + -` or `Ctrl + Mouse Wheel Down`
-- ** Reset Zoom (100%)	`Ctrl + 0`
-- ** Pan Image	`Left Click + Drag`
+-  Action Shortcut / Control
+-  Open File  `Ctrl + O`
+-  Zoom In  `Ctrl + +` or `Ctrl + Mouse Wheel Up`
+-  Zoom Out  `Ctrl + -` or `Ctrl + Mouse Wheel Down`
+-  Reset Zoom (100%)  `Ctrl + 0`
+-  Pan Image  `Left Click + Drag`
 ---
 ### License
 Distributed under the Apache License, Version 2.0. See `LICENSE` for details.
